@@ -37,5 +37,5 @@ Here are some of the tools and frameworks I use in my day-to-day workflow:
 ### 📫 Let's Connect!
 Looking to collaborate on cybersecurity projects, open-source tools, or CTFs.
 - **TryHackMe:** [K0ch1m4n4](https://tryhackme.com/p/K0ch1m4n4)
-- **LinkedIn:** [Ghostbyte](#)
+- **LinkedIn:** [K0ch1m4n4](https://www.linkedin.com/in/k0ch1m4n4)
 - 
